@@ -1,4 +1,4 @@
-# GraphicsLibrary
+# GraphicsLibrary 🖥️
 The graphics. h header file provides access to a simple graphics library that makes it possible to draw lines, rectangles, ovals, arcs, polygons, images, and strings on a graphical window
 ## 2. Download these header files
 You need these few files to run the graphics.h header file
