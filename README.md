@@ -16,3 +16,4 @@ Path: C:\MinGW\lib
    * Restart CommandPrompt with these options 
       gcc (yourcodename.c) -o (yourcodename) -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
  
+ 
