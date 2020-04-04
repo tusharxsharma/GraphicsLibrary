@@ -3,7 +3,7 @@ The graphics. h header file provides access to a simple graphics library that ma
 ## Download these header files
 You need these few files to run the graphics.h header file
 Download the files from here https://github.com/tusharxsharma/GraphicsLibrary
-## 3. Include libbgi.a
+## Include libbgi.a
 Copy and paste libbgi.a file in the lib folder of MinGW
 
 Path: C:\MinGW\lib
