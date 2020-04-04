@@ -7,7 +7,7 @@ Download the files from here https://github.com/tusharxsharma/GraphicsLibrary
 Copy and paste libbgi.a file in the lib folder of MinGW
 
 Path: C:\MinGW\lib
-## 4. Add Link Libraries in Include Folder
+## Add Link Libraries in Include Folder
    * In the MinGW folder , go to Include
 
    * Paste these 2 files : graphics , winbigim to the folder.
